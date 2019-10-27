@@ -1,8 +1,6 @@
 const ex = require("express");
 const app = ex();
 
-const xml = require("xml");
-
 const cors = require("cors");
 app.use(
   cors({

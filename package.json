@@ -14,7 +14,6 @@
     "publitio_js_sdk": "^1.0.10"
   },
   "devDependencies": {
-    "nodemon": "^1.19.4",
-    "xml": "^1.0.1"
+    "nodemon": "^1.19.4"
   }
 }
